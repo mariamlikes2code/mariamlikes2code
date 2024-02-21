@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Java fundamentals III**
 
-- 📄 Know about my experiences [file:///Users/mariam/Downloads/resume%20stuff/mariam.pdf] 
-
 - ⚡ Fun fact **I was a business major but now I'm here!**
 
 
