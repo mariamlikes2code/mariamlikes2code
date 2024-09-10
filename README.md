@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam</h1>
-<h3 align="center">I am a second-year student at Houston Community college studying computer science, passionate about exploring the realms of coding.</h3>
-
-- 🌱 I’m currently learning **Java fundamentals III**
+<h3 align="center">I am a third-year student at Rutgers University studying computer science, passionate about exploring the realms of coding.</h3>
 
 - ⚡ Fun fact **I was a business major but now I'm here!**
 
