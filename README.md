@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam</h1>
-<h3 align="center">I am a third-year student at Rowan University studying computer science, passionate about exploring the realms of coding.</h3>
+<h3 align="center">I am a senior at Rowan University studying computer science, passionate about exploring the realms of coding.</h3>
 
 - ⚡ Fun fact **I was a business major but now I'm here!**
 
